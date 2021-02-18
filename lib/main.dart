@@ -7,7 +7,6 @@ const PrimaryColor = const Color(0xffD500F9);
 void main() {
   runApp(MyApp());
 }
-/test dari saya
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
